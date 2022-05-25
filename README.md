@@ -3,4 +3,4 @@ Here is my Offset Dumper for Red Dead Redemption 2 you need to install scripthoo
 after dumping look in you RDR2 Game Path
 
 Questions:
-qmitroxdev#2856
+qmitroxdev#7597
